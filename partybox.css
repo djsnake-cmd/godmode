@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+body {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    height: 480px;
+    width: 640px;
+}
+
+.upLeft {
+    width: 50%;
+    height: 50%;
+    background-color: aqua;
+}
+
+.upRight {
+    width: 50%;
+    height: 50%;
+    background-color: brown;
+}
+
+.downLeft {
+    width: 50%;
+    height: 50%;
+    background-color: blueviolet;
+}
+
+.downRight {
+    width: 50%;
+    height: 50%;
+    background-color: cadetblue;
+}

@@ -1,0 +1,82 @@
+.wrapper {
+    height: 2500px;
+    position: relative;
+    background: black;
+}
+body {
+    margin: 0 auto;
+    overflow-x: hidden;
+    font-family: 'pacifico' cursive;
+}
+.katten {
+    position: fixed;
+    top: 15;
+    left: 100;
+    width: auto;
+    height: 60%;
+}
+.katten4 {
+    position: relative;
+    width: 20%;
+    height: auto;
+    left: 50vh;
+}
+.katten-text {
+    position: relative;
+    text-align: center;
+    z-index: 99;
+    color: red;
+    top: 100vh;
+}
+.katten-text2 {
+    position: relative;
+    text-align: center;
+    z-index: 99;
+    color: red;
+    top: 30vh;
+}
+.katten2 {
+    position: relative;
+    top: 120vh;
+    width: 50%;
+
+}
+.katten3 {
+    position: sticky;
+    width: 5%;
+    top: 5vh;
+    right: 10vh;
+    height: auto;
+}
+.black {
+    position: relative;
+    overflow-x: hidden;
+    top: 110vh;
+}
+.katten5 {
+    position: relative;
+    z-index: 99;
+    top: -30vh;
+    left: 60vh;
+}
+.julian1 {
+    position: relative;
+    z-index: 99;
+    width: 20%;
+    height: auto;
+    right: 15vh;
+    top: 30vh;
+}
+.julian3 {
+    position: absolute
+}
+.julian5 {
+    position: relative;
+    width: 30%;
+    height: auto;
+    top: -170vh;
+    z-index: 99;
+    right: 15vh;
+}
+
+
